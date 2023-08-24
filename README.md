@@ -25,7 +25,7 @@ To use this script, you'll need an API key from Google Cloud Console:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Yusuf-YENICERI/google-tts-fast.git
+   git clone https://github.com/Yusuf-YENICERI/Fast-Google-Cloud-Text-To-Speech
    cd google-tts-fast
    ```
 
